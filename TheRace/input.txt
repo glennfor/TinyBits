@@ -1,0 +1,19 @@
+5 3 
+##### 
+#_##_ 
+#MM_ _ 
+10 
+nkwa 7 2 java bpm  
+gce_box 5 2 python azure  
+nkwa 8 2 python java 
+flp2rd 4 3 java cybersecurity big_data  
+mkth 1 2 nlp big_data  
+gce_box 3 2 azure c#  
+flp2rd 6 2 cybersecurity python  
+nkwa 2 3 bpm python project_management  
+ble 5 4 java c sql junit 
+gce_box 1 4 python c java bpm 
+3 
+nkwa 2 
+ble 1 
+mkth 5 
